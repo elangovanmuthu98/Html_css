@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+#igh{
+    background-color: yellow;
+    color: black;
+}
+#igh
+{
+    background-color: green;
+    color: white;
+}
+
+#eg-1{
+    color: rgb(100, 50, 150);
+}
+#eg-2
+{
+    text-align: right;
+}
+#eg-3{
+    text-decoration: line-through;
+    text-transform:capitalize;
+}
+#eg-4
+{
+    line-height: 200%;
+}
+#eg-5{
+    text-shadow: 0px 0px 2px red;
+    color: wheat;
+}
+
+#eg-6{
+    font-family:"Inter", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+}
+#eg-7
+{
+    font-size: 20px;
+}
+
+#eg-8
+{
+    font-size: 50px;
+}
+#eg-9
+{
+    font-size: 90px;
+}
